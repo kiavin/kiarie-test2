@@ -1,0 +1,25 @@
+{
+    "name": "kiavin/mailer",
+    "description": "package derived from a mailing module using symphony mailer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kiavin\\Mailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kiavin",
+            "email": "bscs157j2022@students.tu.ac.ke"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2-symfonymailer": "~2.0.3",
+        "yiisoft/yii2": "~2.0.49"
+    },
+    "require-dev": {
+        "symfony/browser-kit": "^6.0 || >=2.7 <=4.2.4"
+    }
+}
