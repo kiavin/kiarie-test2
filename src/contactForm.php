@@ -1,8 +1,8 @@
 <?php 
-namespace mail\models\static;
+namespace kiarie\mailer;
 
 use yii\base\Model;
-use Mail\hooks\Mail;
+use kiarie\mailer\Mail;
 use Yii;
 
 /**

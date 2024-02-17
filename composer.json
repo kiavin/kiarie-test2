@@ -1,11 +1,11 @@
 {
     "name": "kiavin/mailer",
     "description": "package derived from a mailing module using symphony mailer",
-    "type": "library",
+    "type": "yii2-extension",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "mail\\model\\static\\": "src/"
+            "foo\\bar\\contactForm": "src"
         }
     },
     "authors": [

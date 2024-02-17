@@ -1,5 +1,5 @@
 <?php
-namespace mail\hooks;
+namespace kiarie\mailer;
 
 use Yii;
 

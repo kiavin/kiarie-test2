@@ -1,5 +1,5 @@
 <?php
-namespace Mail;
+namespace kiarie\mailer;
 
 /**
  * @license Apache 2.0

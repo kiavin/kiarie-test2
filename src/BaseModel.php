@@ -1,5 +1,5 @@
 <?php
-namespace Mail\models;
+namespace kiarie\mailer;
 
 /**
  * This is the base model class for Mail module.
