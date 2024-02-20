@@ -20,7 +20,7 @@ Then, run `composer update` to install the package.
 ### Step 3: Import Module in Controller
 
 In your controller where you intend to use the mailer functionality, add the following line to import the `contactForm` class:
-            **use kiarie\mailer\contactForm;**
+            ```**use kiarie\mailer\contactForm;**```
 
 
 ### Step 4: Configuration
