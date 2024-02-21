@@ -1,5 +1,5 @@
 <h1>
-       <a href="https://www.buymeacoffee.com/kiavin" title="Buy me a coffee" ><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="kiavin" /></a>
+       <a href="https://www.buymeacoffee.com/kiarie" title="Buy me a coffee" ><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="kiavin" /></a>
 </h1>
 # Mailer Module Integration Guide
 
